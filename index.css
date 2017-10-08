@@ -1,0 +1,21 @@
+body{
+    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/ad/99/0c/ad990c716c1487af6e7d6f95cc38d937.jpg");
+    background-size: auto;
+    background-color: yellow;
+}
+#icon1
+{
+    margin-left: 500px;
+}
+#text{
+    height: 15px;
+    width:20px;
+    border-width: 10px solid black;
+    margin-left: 100px;
+
+}
+.textmain{
+    display:flex;
+    margin-left:500px;
+
+}
